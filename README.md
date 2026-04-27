@@ -1,32 +1,45 @@
-📊 Customer Segmentation Analysis
-🔹 Overview
+# 📊 Customer Segmentation Analysis
 
-This project focuses on segmenting customers based on their behavior and purchase patterns to generate actionable business insights. It involves data cleaning, exploratory data analysis (EDA), SQL querying, and building an interactive dashboard.
+![Python](https://img.shields.io/badge/Python-Used-blue)
+![SQL](https://img.shields.io/badge/SQL-Queries-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-🔹 Dataset
-Source: Kaggle
-Contains customer demographics and transaction-related data
-🔹 Tools & Technologies
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL (MySQL/PostgreSQL/SQL Server)
-Power BI
-Gamma (for presentation)
-🔹 Steps
-Data Loading & Cleaning
-Exploratory Data Analysis (EDA)
-SQL Queries for insights
-Dashboard creation in Power BI
-Report & Presentation
-🔹 Dashboard
+---
 
-Interactive Power BI dashboard highlighting key metrics, trends, and customer segments.
+## 🔹 Overview  
+This project focuses on segmenting customers based on their behavior and purchase patterns to generate actionable business insights. It includes data cleaning, exploratory data analysis (EDA), SQL querying, and building an interactive dashboard.
 
-🔹 Results
-Identified distinct customer segments
-Analyzed purchasing behavior and trends
-Provided data-driven business recommendations
-🔹 How to Run
-Clone the repository
-Run Python scripts for preprocessing
-Execute SQL queries
-Open Power BI file for dashboard
+---
+
+## 🔹 Dataset  
+- **Source:** Kaggle  
+- Includes customer demographics and transaction data  
+
+---
+
+## 🔹 Tools & Technologies  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (MySQL/PostgreSQL/SQL Server)  
+- Power BI  
+- Gamma (Presentation)
+
+---
+
+## 🔹 Dashboard Preview 📸  
+
+![Dashboard](./dashboard.png)
+
+---
+
+## 🔹 Key Insights  
+- Majority customers are non-subscribers  
+- Outerwear category shows highest sales and revenue  
+- Senior age group has higher purchase contribution  
+- Customer behavior varies across age segments  
+
+---
+
+## 🔹 How to Run  
+```bash
+git clone https://github.com/your-username/your-repo-name.git
