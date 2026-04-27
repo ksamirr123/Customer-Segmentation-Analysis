@@ -27,8 +27,8 @@ This project focuses on segmenting customers based on their behavior and purchas
 ---
 
 ## 🔹 Dashboard Preview 📸  
+<img width="1853" height="1074" alt="image" src="https://github.com/user-attachments/assets/2586572c-98fd-4540-bf54-bfa9198f9e9e" />
 
-![Dashboard](./dashboard.png)
 
 ---
 
